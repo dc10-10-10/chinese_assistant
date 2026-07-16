@@ -48,7 +48,7 @@ ChineseModAssistant/
 - **Java版本**: 17+
 
 ## 许可证
-MIT License
+额
 
 ## 联系方式
 如有问题或建议，请通过以下方式联系：
