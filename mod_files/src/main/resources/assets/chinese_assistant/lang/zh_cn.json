@@ -1,0 +1,9 @@
+{
+  "itemGroup.chinese_assistant": "中文模组助手",
+  "block.chinese_assistant.assistant_block": "助手方块",
+  "item.chinese_assistant.assistant_item": "助手物品",
+  "gui.chinese_assistant.assistant_gui": "助手界面",
+  "message.chinese_assistant.welcome": "欢迎使用中文模组助手！",
+  "message.chinese_assistant.help": "输入/help获取帮助信息",
+  "message.chinese_assistant.thanks": "感谢使用中文模组助手！"
+}
